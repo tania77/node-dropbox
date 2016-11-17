@@ -1,7 +1,7 @@
 {
-  "name": "node-dropbox",
+  "name": "node-dropbox-copia",
   "description": "A simple Dropbox API client for node.js",
-  "version": "0.1.8",
+  "version": "0.0.1",
   "author": "Joshua Kidd <kidd.josh.343@gmail.com>",
   "keywords": [
     "dropbox",
@@ -11,7 +11,7 @@
   "main": "./lib/node_dropbox.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/g33kidd/node-dropbox"
+    "url": "https://github.com/tania77/node-dropbox"
   },
   "dependencies": {
     "request": "^2.40.0"
